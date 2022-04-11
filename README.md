@@ -1,5 +1,4 @@
-# Task
-Fibonacci series task
+#Fibonacci series
 
 pip install -r requirements.txt
 API End point - {{baseURL}}/api/v1/result/ --> send {"number" : 5}
